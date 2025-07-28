@@ -30,8 +30,8 @@ The opponent strikes first, followed by the user's choice of move. Health bars f
 
 ## User Interface Designs
 <img width="119" height="254" alt="image" src="https://github.com/user-attachments/assets/ed3161ac-7151-4128-adad-7cdc8c5298b0" />
-<img width="117" height="212" alt="image" src="https://github.com/user-attachments/assets/6be4eeb6-67eb-4363-a13c-2904d6cfc01a" />
-<img width="132" height="269" alt="image" src="https://github.com/user-attachments/assets/809cec63-e65c-4df6-ae2d-730a052ef697" />
+<img width="119" height="254" alt="image" src="https://github.com/user-attachments/assets/6be4eeb6-67eb-4363-a13c-2904d6cfc01a" />
+<img width="119" height="254" alt="image" src="https://github.com/user-attachments/assets/809cec63-e65c-4df6-ae2d-730a052ef697" />
 
 
 ## Utilized Tools

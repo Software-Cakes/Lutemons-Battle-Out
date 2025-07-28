@@ -21,6 +21,11 @@ Training ends when a Lutemon's health reaches zero. If the user’s Lutemon wins
 Battles are high-stakes gameplay where Lutemons can win awards and gain larger XP boosts. The user chooses a Lutemon, and the game randomly generates a stronger opponent.
 The opponent strikes first, followed by the user's choice of move. Health bars for both Lutemons track progress. The game announces victory with a huge star graphic or defeat with a retry/X screen. A retry button is provided in case of loss. As with training, users can exit via Home or Training icons, with a confirmation prompt
 
+## UML Diagram 
+
+## User Interface Designs
+<img width="119" height="254" alt="image" src="https://github.com/user-attachments/assets/ed3161ac-7151-4128-adad-7cdc8c5298b0" />
+
 
 ## Utilized Tools
 - UI Design: Figma 

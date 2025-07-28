@@ -7,17 +7,17 @@ Welcome to 'Lutemons: Battle Out!', where you collect, train and fight against o
 2. Suthinee Segkhoonthod (Suthinee Segkhoonthod)
 
 ## Game Features
-### Home Page (Main Activity)
+### Home Page (Main Activity) 🏠
 The Home Page displays all collected Lutemons in a card-based layout. Each card shows the Lutemon’s name, image, type, XP, and level. A counter in the top-right shows the total number of Lutemons in the user's collection. By tapping a Lutemon's card (View Details Activity), a scrollable popup appears with detailed information including type, XP, description, abilities, weaknesses, and awards.
 
 To add a new Lutemon, users press the “Add Lutemon” button on the first card. This opens a new screen with a searchable RecyclerView list of available Lutemons. Each Lutemon card includes an info popup and an “Add to Collection” button, which triggers a confirmation dialog. Upon selecting "Yes," the Lutemon is added to the user’s collection.
 
-### Training Page
+### Training Page 🦾
 Lutemons can increase XP by training with a randomly chosen opponent of similar strength. The user selects a Lutemon, and the game generates an opponent with comparable XP. Both characters are displayed with star bars and selectable attack/defense options.
 
 Training ends when a Lutemon's health reaches zero. If the user’s Lutemon wins, XP is awarded and the victory is announced. Users can exit training at any time using the Home or Battle icons, with a confirmation dialog to prevent accidental exits.
 
-### Battle Page 
+### Battle Page 👾
 Battles are high-stakes gameplay where Lutemons can win awards and gain larger XP boosts. The user chooses a Lutemon, and the game randomly generates a stronger opponent.
 The opponent strikes first, followed by the user's choice of move. Health bars for both Lutemons track progress. The game announces victory with a huge star graphic or defeat with a retry/X screen. A retry button is provided in case of loss. As with training, users can exit via Home or Training icons, with a confirmation prompt
 
